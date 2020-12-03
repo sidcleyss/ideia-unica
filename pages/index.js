@@ -6,6 +6,7 @@ function Home() {
             <h1>Home</h1>
             <Contador />
             <div>Teste</div>
+            <script data-ad-client="ca-pub-9328493142597493" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         </div>
     )
     
