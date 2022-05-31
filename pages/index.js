@@ -5,11 +5,7 @@ function Home() {
         <div>
             <h1>Home 2.0</h1>
             <Contador />
-            <div>Teste</div>
-        
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9328493142597493"
-     crossorigin="anonymous"></script>
-        
+            <div>Teste</div>      
         </div>
     )
     
